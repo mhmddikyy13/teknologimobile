@@ -1,0 +1,34 @@
+
+<resources>
+        <string name="app_name">Kontak</string>
+        <string name="name_1">Kevin</string>
+        <string name="name_2">Budi</string>
+        <string name="name_3">Santi</string>
+        <string name="name_4">Bambang</string>
+        <string name="name_5">Indah</string>
+        <string name="name_6">karel</string>
+        <string name="name_7">adel</string>
+        <string name="name_8">Risky</string>
+        <string name="name_9">deny</string>
+        <string name="nomor_description_1">089538136233</string>
+        <string name="nomor_description_2">089123849743</string>
+        <string name="nomor_description_3">089522370012</string>
+        <string name="nomor_description_4">0895204765298</string>
+        <string name="nomor_description_5">0892327540123</string>
+        <string name="nomor_description_6">0897348720910</string>
+        <string name="nomor_description_7">0823993475939</string>
+        <string name="nomor_description_8">0893247724784</string>
+        <string name="nomor_description_9">0892378347192</string>
+        <string name="nomor">Nomor:</string>
+        <string name="expand_button_content_description">Lihat nomor kontak.</string>
+        <string name="jenis_kelamin_1">Laki-laki</string>
+        <string name="jenis_kelamin_2">Laki-laki</string>
+        <string name="jenis_kelamin_3">Perempuan</string>
+        <string name="jenis_kelamin_4">Laki-laki</string>
+        <string name="jenis_kelamin_5">Perempuan</string>
+        <string name="jenis_kelamin_6">Perempuan</string>
+        <string name="jenis_kelamin_7">Laki-laki</string>
+        <string name="jenis_kelamin_8">Perempuan</string>
+        <string name="jenis_kelamin_9">Laki-laki</string>
+
+</resources>
